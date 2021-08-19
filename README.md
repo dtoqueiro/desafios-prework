@@ -7,7 +7,7 @@
   - [x] Exercício 02 
   - [x] Exercício 03 
   - [x] Exercício 04 
-- [ ] dia 02
+- [x] dia 02
 - [ ] dia 03
 - [ ] dia 04
 - [ ] dia 05
