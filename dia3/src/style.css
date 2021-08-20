@@ -6,3 +6,31 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+form {
+margin-top: 5rem;
+text-align: center;
+}
+
+form input {
+  padding: .75rem;
+  font-size: 1.25rem;
+}
+
+form  button {
+  display: block;
+  margin: 1rem auto;
+  padding: .75rem;
+  text-transform: uppercase;
+  font-size: 1rem;
+
+}
+
+.result {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+
+}
